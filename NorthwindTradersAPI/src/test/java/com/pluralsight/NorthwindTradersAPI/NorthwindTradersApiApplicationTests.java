@@ -1,10 +1,10 @@
-package com.pluralsight.demo;
+package com.pluralsight.NorthwindTradersAPI;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class NorthwindTradersApiApplicationTests {
 
 	@Test
 	void contextLoads() {
